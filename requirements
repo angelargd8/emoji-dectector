@@ -1,6 +1,7 @@
 pillow
 scikit-learn
-tensorflow
+tensorflow==2.20.0
+protobuf==6.33.0
 numpy
 matplotlib
 seaborn
