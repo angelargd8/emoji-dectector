@@ -1,0 +1,9 @@
+pillow
+scikit-learn
+tensorflow
+numpy
+matplotlib
+seaborn
+tf2onnx
+onnxruntime
+opencv-python
